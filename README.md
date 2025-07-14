@@ -11,3 +11,5 @@
   5. BOTAFOGO
 
 ![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
+
+![C Embeded](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg)
