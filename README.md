@@ -9,3 +9,5 @@
   3. FLAMENGO
   4. PSG
   5. BOTAFOGO
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
