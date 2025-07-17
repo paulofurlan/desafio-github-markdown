@@ -10,7 +10,7 @@
   4. PSG
   5. BOTAFOGO
 
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-<img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+
+<img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
 
 ![C Embeded](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg)
